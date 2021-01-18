@@ -7,7 +7,8 @@ Fonts
 Variables
 */
 
-:root {
+/* defining variable for different shades of color */
+:root {                                       
   /* dark shades of primary color*/
   --clr-primary-1: hsl(205, 86%, 17%);
   --clr-primary-2: hsl(205, 77%, 27%);
